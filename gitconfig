@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = njalbau@yahoo.fr
+	name = Nicolas Jalbau
